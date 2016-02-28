@@ -1,0 +1,26 @@
+_repo: A-Woodland-Queen-Reine-des-Bois-Volume-3_3937
+creator:
+  author:
+    agent_name: Theuriet, André
+    aliases:
+    - Theuriet, Andre
+    - Theuriet, Claude Adhémar André
+    birthdate: 1833
+    deathdate: 1907
+    gutenberg_agent_id: '1340'
+    url: http://www.gutenberg.org/2009/agents/1340
+    wikipedia: http://en.wikipedia.org/wiki/Andr%C3%A9_Theuriet
+description: Translation of Reine des bois.
+gutenberg_issued: '2003-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3937'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Villages -- France -- Fiction'
+- !lcc 'PQ'
+title: A Woodland Queen ('Reine des Bois') — Volume 3
+url: http://www.gutenberg.org/ebooks/3937
