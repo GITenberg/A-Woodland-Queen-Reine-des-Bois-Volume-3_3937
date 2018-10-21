@@ -1,5 +1,5 @@
 _repo: A-Woodland-Queen-Reine-des-Bois-Volume-3_3937
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,5 +28,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Villages -- France -- Fiction'
 - !lcc 'PQ'
+- GITenberg
 title: A Woodland Queen ('Reine des Bois') — Volume 3
 url: http://www.gutenberg.org/ebooks/3937
